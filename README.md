@@ -12,7 +12,7 @@
     * Sequalize 
     * Bulma
 
-* https://github.com/sharkattack182/project-2
+* [Demo app here](https://nameless-hamlet-64512.herokuapp.com/)
 * 
 
 <img src="public\imgs\pokedex.png" alt="sign in pokedex page">
